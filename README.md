@@ -198,15 +198,13 @@ pytest --cov=pylogictools --cov-report=html
 - Pandas (for truth table export)
 - Click (for CLI interface)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Zeyad Mustafa**
 - GitHub: [@Zeyad-Mustafa](https://github.com/Zeyad-Mustafa)
-- Email: [your.email@example.com](zeyad.uni@gmail.com)
+- Email: [zeyad.uni@gmail.com](zeyad.uni@gmail.com)
 
 ## 🙏 Acknowledgments
 
@@ -223,9 +221,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Integration with hardware simulation tools
 - [ ] Advanced optimization algorithms
 
-## 🐛 Bug Reports and Feature Requests
-
-Please use the [GitHub Issues](https://github.com/Zeyad-Mustafa/PyLogicTools/issues) page to report bugs or request features.
 
 ## ⭐ Show Your Support
 
