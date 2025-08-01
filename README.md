@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Zeyad Mustafa**
 - GitHub: [@Zeyad-Mustafa](https://github.com/Zeyad-Mustafa)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](zeyad.uni@gmail.com)
 
 ## 🙏 Acknowledgments
 
