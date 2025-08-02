@@ -42,7 +42,7 @@ print(f"True AND False = {result}")
 ```
 
 ### Truth Table Generation
-```python
+```python 
 from pylogictools import TruthTable
 
 # Generate truth table for a complex expression
