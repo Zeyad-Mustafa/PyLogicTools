@@ -192,12 +192,12 @@ pytest --cov=pylogictools --cov-report=html
 ```
 
 ## 📋 Requirements
-
+ ---------
 - Python 3.7+
 - NumPy (for numerical operations)
 - Pandas (for truth table export)
 - Click (for CLI interface)
-
+-------
 
 
 ## 👨‍💻 Author
